@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://felixgeiss.de/assets/img/b-img2.png"  />
+  <img height="400" src="https://felixgeiss.de/assets/img/b-img2.png"  />
 </div>
 
 ###
